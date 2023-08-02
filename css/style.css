@@ -130,7 +130,7 @@ header {
     align-items: center;
     justify-content: space-around;
     gap: 20px;
-    background: url(/img/header-bg.png) center / cover no-repeat;
+    background: url(../img/header-bg.png) center / cover no-repeat;
     padding: 50px 10%;
 }
 
@@ -221,7 +221,7 @@ header > img {
 .traveling-sample {
     width: 100%;
     padding: 100px 10%;
-    background: url(/img/traveling-sample.png) center / cover no-repeat;
+    background: url(../img/traveling-sample.png) center / cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -342,7 +342,7 @@ header > img {
 /* travel-sample */
 
 .travel-sample-header {
-    background: url(/img/traveling-sample-2.png) center / cover no-repeat;
+    background: url(../img/traveling-sample-2.png) center / cover no-repeat;
     color: #fff;
 }
 
